@@ -1,0 +1,7 @@
+Day one  ( 2/06/2025)
+
+learn -->      installation github and setup ,  h1 tag , coloring in css
+
+implement -->  add h1 tag , and css styling 
+
+challenges --> diffrent commands of github setup in windows terminal
