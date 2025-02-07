@@ -5,3 +5,13 @@ learn -->      installation github and setup ,  h1 tag , coloring in css
 implement -->  add h1 tag , and css styling 
 
 challenges --> diffrent commands of github setup in windows terminal
+
+Day Two  (03/05/2025)
+
+learn -->       span tag, creation of hamburg , import text from google font , java script functions of (querySelector, onclick funciton of location.href and window.open)
+                hamburg transition in css, new css tag( gap , flex-direction), mediaquery to make responsive
+          
+
+implement -->   cration of nav bar and make it responsive with hamburg icon , section one cration which is my prfoile    
+
+challenges -->  spelling mistake in hamburg, didnt get results quickly, learning of transition in css  

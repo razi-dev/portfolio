@@ -3,12 +3,73 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Title</title>
     <link rel="stylesheet" href="web.css">
+    <link rel="stylesheet" href="mediaquries.css">
 </head>
 <body>
-    <h1>
-        Razi ahmed m
-    </h1>
+    <nav id="desktop-nav">
+        <div class="logo">Razi ahmed</div>
+        <div>
+            <ul class="nav-links">
+                <li><a href="#about">about</a></li>
+                <li><a href="#experience">experience</a></li>
+                <li><a href="#projects">projects</a></li>
+                <li><a href="#contact">contacts</a></li>
+            </ul>
+        </div>  
+    </nav>
+    <nav id="hamburger-nav">
+        <div class="logo">Razi ahmed</div>
+        <div class="hamburger-menu">
+            <div class="hamburger-icon" onclick="togglemenu()">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="menu-links">
+                <li><a href="#about"  onclick="togglemenu()">about</a></li>
+                <li><a href="#experience"  onclick="togglemenu()">experience</a></li>
+                <li><a href="#projects"  onclick="togglemenu()">projects</a></li>
+                <li><a href="#contact"  onclick="togglemenu()">contacts</a></li>
+
+            </div>
+        </div>
+    </nav>
+    <section id="profile">
+
+     <div class="section_pic-container">
+            <img src="assets/razi_img.jpg" alt="pic" style="border-radius: 200px; border: 3px solid;">
+        </div>
+     <div class="section_text">
+            <p class="section_text_p1">Hello, Im </p>
+            <h1 class="title">Razi Ahmed</h1>
+            <p class="section_text_p2">Frontend Developer</p>
+
+            <div class="btn-container">
+                <button class="btn btn-color-2" onclick="window.open('./assets/razi_cv_model.pdf')">
+                    Download CV
+                </button>
+                <button class="btn btn-color-1" onclick="location.href='#contact'">
+                    Contact Info
+                </button>
+            </div>
+            <div id="socials-container">
+                <img
+                 src="./assets/linkedin.png"
+                 alt="linkedin profile"
+                 class="icon"
+                 onclick="location.href='www.linkedin.com/in/razi-ahmed-403b42216'"
+                 />
+                 <img
+                 src="./assets/github.png"
+                 alt="github profile"
+                 class="icon"
+                 onclick="location.href='https://github.com/razi-dev/portfolio'"
+                 />
+            </div>        
+      </div>
+    </section>
+    <script src="web.js"></script>
 </body>
 </html>
