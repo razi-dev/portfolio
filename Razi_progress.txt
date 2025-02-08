@@ -15,3 +15,13 @@ learn -->       span tag, creation of hamburg , import text from google font , j
 implement -->   cration of nav bar and make it responsive with hamburg icon , section one cration which is my prfoile    
 
 challenges -->  spelling mistake in hamburg, didnt get results quickly, learning of transition in css  
+
+
+
+Day Three  (04/05/2025)
+
+learn -->      nothing more, created new section about
+
+implement -->  created new section about. addd new image in about section
+
+challenges -->  no more challenges today
