@@ -1,4 +1,4 @@
-Day one  ( 2/06/2025)
+Day one  ( 06/02/2025)
 
 learn -->      installation github and setup ,  h1 tag , coloring in css
 
@@ -6,7 +6,7 @@ implement -->  add h1 tag , and css styling
 
 challenges --> diffrent commands of github setup in windows terminal
 
-Day Two  (03/05/2025)
+Day Two  (07/05/2025)
 
 learn -->       span tag, creation of hamburg , import text from google font , java script functions of (querySelector, onclick funciton of location.href and window.open)
                 hamburg transition in css, new css tag( gap , flex-direction), mediaquery to make responsive
@@ -18,10 +18,19 @@ challenges -->  spelling mistake in hamburg, didnt get results quickly, learning
 
 
 
-Day Three  (04/05/2025)
+Day Three  (08/02/2025)
 
 learn -->      nothing more, created new section about
 
 implement -->  created new section about. addd new image in about section
 
 challenges -->  no more challenges today
+
+
+day four ( 09/02/2025)
+
+learn -->  adding  type writer animation animation into my name, adding bubbles animation 
+
+implement -->  created new 2 section as experience and contact. add text animation , added bubbles animation, made the whole website as responsive
+
+challenges -->  time more spened on responsive , image dosent resize in because of spelling mistake in class, arrow icon dosnt worked for long time 
